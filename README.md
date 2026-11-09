@@ -28,5 +28,29 @@ This commands includes
 
 ## Output
 
+netstat:
+
+<img width="946" height="742" alt="image" src="https://github.com/user-attachments/assets/21b4619b-83fd-4c4a-a356-8de0e663b904" />
+
+ipconfig:
+
+<img width="786" height="742" alt="image" src="https://github.com/user-attachments/assets/803b783d-18d8-4bce-a449-5fd466ef3094" />
+
+ping:
+
+<img width="732" height="734" alt="image" src="https://github.com/user-attachments/assets/1d9ae910-2b5f-42c2-a06b-e1e1532870f7" />
+
+tracet:
+
+<img width="664" height="728" alt="image" src="https://github.com/user-attachments/assets/bc13213e-a056-4eea-a450-00d35f31c7ce" />
+
+nslookup:
+
+<img width="536" height="738" alt="image" src="https://github.com/user-attachments/assets/600cb2d9-458b-43ad-89ed-19c02011debb" />
+
+getmac:
+
+<img width="646" height="580" alt="image" src="https://github.com/user-attachments/assets/3ca707a4-0e5d-4ec1-b2b8-ad607e2de412" />
+
 ## Result
 Thus Execution of Network commands Performed 
